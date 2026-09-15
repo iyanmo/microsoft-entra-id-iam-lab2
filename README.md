@@ -301,6 +301,8 @@ Daniel exists in Active Directory? -> Check account status & attributes -> Check
 
 The following diagram represents the proposed hybrid identity architecture for Southstars Retail.
 
+<img src="southstars-hybrid-identity-architecture.png" alt="Southstars Hybrid Identity Architecture Diagram" width="800">
+
 ### Architecture Components
 
 #### On-Premises Active Directory
